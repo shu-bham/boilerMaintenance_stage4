@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">boilermaintenance</string>
+    <string name="msg_token_fmt">tokenName</string>
+</resources>
